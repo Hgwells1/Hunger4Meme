@@ -1,0 +1,24 @@
+[
+    {
+        "modid": "hunger4memes",
+        "name": "Hunger4memes",
+        "version": "1.0.0",
+        "description": "Sponge Modded Hunger Games",
+        "url": "https://github.com/Hgwells1/Hunger4Meme",
+        "authorList": [
+            "Hgwells"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    },
+    {
+        "modid": "hunger4meme",
+        "name": "Hunger4Meme",
+        "version": "1.0.0-SNAPSHOT",
+        "description": "Sponge Modded Hunger Games"
+    }
+]
